@@ -9,6 +9,10 @@
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="418,159,0,0" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="276,217,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="276,86,0,0" VerticalAlignment="Top"/>
+        <Button HorizontalAlignment="Left" Height="115" Margin="59,294,0,0" VerticalAlignment="Top" Width="547">
+            <Button Content="Button"/>
+        </Button>
 
     </Grid>
 </Window>
